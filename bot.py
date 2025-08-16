@@ -7,7 +7,7 @@ from datetime import datetime
 
 إعدادات البوت
 
-TOKEN = "8319406797:AAF_xr_y9f3X2xFDMdhcbaSPKsZBWHYsCrc"
+TOKEN = ""
 ADMIN_ID = 6245201082  # إيديك كصاحب البوت
 CHANNEL_ID = "@Aliosma47586"  # قناة الاشتراك الإجباري
 
